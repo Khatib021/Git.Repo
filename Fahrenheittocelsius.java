@@ -16,7 +16,7 @@ public class Fahrenheittocelsius {
 
         do {
 
-            System.out.println("Programm endet durch Eingabe von 1");
+            System.out.println("Programm endet durch Eingabe von 1 pew pew pew");
             System.out.println("Eingabe der Fahrenheit-Temperatur: ");
 
             f = in.nextDouble();
